@@ -1,0 +1,2 @@
+(fibrillation)--[ISA]-->(cardiac arrest)<--[ISA]--(tachycardia)
+(fibrillation)--[ISA]-->(tachycardia)
